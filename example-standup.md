@@ -35,13 +35,13 @@ Guten Morgen liebes Team,
 |                                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------|
 | //In the last version of the app, website there were sadly a lot of crashes                                                  |
-| In *der letzten Version der App, Webseite* gab es leider mehrere Abstürze.                                                   |
+| In **der letzten Version der App, Webseite** gab es leider mehrere Abstürze.                                                   |
 | //Those crashes were caused by an unstable internet connection.                                                              |
 | Zu dem Crashes kam es wegen Instabilität einer Netzwerkverbindung.                                                           |
 | //We released a new version                                                                                                  |
 | Wir haben eine neue Version herausgegeben/released/veröffentlicht.                                                           |
-| //The adoption rate is about 30%. We send a Push notification, so that the users download the update                         |
-| Die Adoptionsrate ist um 30%. Wir haben eine Push-Benachrichtigung geschickt, so dass die Nutzer ein Update herunterzuladen. |
+| //The adoption rate is about 30%. We send a **Push notification**, so that the users download the update                     |
+| Die Adoptionsrate ist um 30%. Wir haben **eine Push-Benachrichtigung** geschickt, so dass die Nutzer ein Update herunterzuladen. |
 | //We would like to see the update by at least 60% of users                                                                   |
 | Wir würden gerne bis Ende der Woche die Aktualisierung bei wenigstens 60% der Benutzer sehen.                                |
 | //The results are satisfing/promising.                                                                                       |
@@ -60,34 +60,34 @@ Guten Morgen liebes Team,
 ### indefinite articles - referenced for the first time 📌
 | unbest. Art | m. Sg.             | f. Sg.             | n. Sg.              |   
 |-------------|--------------------|--------------------|---------------------|
-| Nominativ   | ein guter Mann     | eine schöne Frau   | ein liebes Kind     |   
-| Genitiv     | eines guten Mannes | einer schönen Frau | eines lieben Kindes |   
-| Dativ       | einem guten Mann   | einer schönen Frau | einem lieben Kind   |   
-| Akkusativ   | einen guten Mann   | eine schöne Frau   | ein liebes Kind     |   
+| Nominativ   | ein kluger Mann    | eine kluge Frau    | ein kluges Kind     |   
+| Genitiv     | eines klugen Mannes| einer klugen Frau  | eines klugen Kindes |   
+| Dativ       | einem klugen Mann  | einer klugen Frau  | einem klugen Kind   |   
+| Akkusativ   | einen klugen Mann  | eine kluge  Frau   | ein kluges Kind     |   
 
 ### definite articles - precise object, referenced for 2nd+ time 📌
 | best. Art. | m. Sg.           | f. Sg.           | n. Sg.            |   
 |------------|------------------|------------------|-------------------|
-| Nominativ  | der gute Mann    | die schöne Frau  | das liebe Kind    | 
-| Genitiv    | des guten Mannes | der schönen Frau | des lieben Kindes |   
-| Dativ      | dem guten Mann   | der schönen Frau | dem lieben Kind   |   
-| Akkusativ  | den guten Mann   | die schöne Frau  | das liebe Kind    |   
+| Nominativ  | der kluge Mann   | die kluge  Frau  | das kluge Kind    | 
+| Genitiv    | des klugen Mannes| der klugen Frau  | des klugen Kindes |   
+| Dativ      | dem klugen Mann  | der klugen Frau  | dem klugen Kind   |   
+| Akkusativ  | den klugen Mann  | die kluge Frau   | das kluge Kind    |   
 
 ### indefinite articles for plural 📋
 | unbest. Art. | m. Pl.        | f. Pl.         | n. Pl.         |   
 |--------------|---------------|----------------|----------------|
-| Nominativ    | gute Männer   | schöne Frauen  | liebe Kinder   |   
-| Genitiv      | guter Männer  | schöner Frauen | lieber Kinder  |   
-| Dativ        | guten Männern | schönen Frauen | lieben Kindern |   
-| Akkusativ    | gute Männer   | schöne Frauen  | liebe Kinder   |   
+| Nominativ    | kluge Männer   | kluge Frauen  | kluge Kinder   |   
+| Genitiv      | kluger Männer  | kluger Frauen | kluger Kinder  |   
+| Dativ        | klugen Männern | klugen Frauen | klugen Kindern |   
+| Akkusativ    | kluge Männer   | kluge Frauen  | kluge Kinder   |   
 
-### definite articles for plural 📋
+### definite articles for plural 📋 same adjective form everywhere!
 | best. Art. | m. Pl.            | f. Pl.             | n. Pl.             |   
 |------------|-------------------|--------------------|--------------------|
-| Nominativ  | die guten Männer  | die schönen Frauen | die lieben Kinder  |   
-| Genitiv    | der guten Männer  | der schönen Frauen | der lieben Kinder  |   
-| Dativ      | den guten Männern | den schönen Frauen | den lieben Kindern |   
-| Akkusativ  | die guten Männer  | die schönen Frauen | die lieben Kinder  |   
+| Nominativ  | die klugen Männer | die klugen Frauen  | die klugen Kinder  |   
+| Genitiv    | der klugen Männer | der klugen Frauen  | der klugen Kinder  |   
+| Dativ      | den klugen Männern| den klugen Frauen  | den klugen Kindern |   
+| Akkusativ  | die klugen Männer | die klugen Frauen  | die klugen Kinder  |   
 
 ## Vocabulary
 
