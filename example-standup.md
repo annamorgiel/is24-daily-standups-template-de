@@ -9,8 +9,9 @@ Guten Morgen liebes Team,
 * Läuft alles einwandfrei? / Does everything  run smoothly?
 
 ### Reply template 😎 💬
-| Ich habe **an der Implementierung von** ... gearbeitet / I was working on the implementation of ..                  |
+|  |
 |---------------------------------------------------------------------------------------------------------------------|
+| Ich habe **an der Implementierung von** ... gearbeitet / I was working on the implementation of ..                  |
 | Ich habe mich in den letzten Tagen **mit der .. beschäftigt**. /In the last few days I was busy with/ working at .. |
 | Ich habe .. implementiert. / I implemented ..                                                                       |
 | Ich habe an dem Konzept von .. gearbeitet./ I was working on a concept of ..                                        |
