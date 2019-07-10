@@ -48,7 +48,7 @@ Guten Morgen liebes Team,
 | Die A/B-Test Ergebnisse sind sehr zufriedenstellend/vielversprechend.                                                        |
 
 ## Other useful resources 📌
-### TE KA MO LO - a manemonics to preserve a proper order of a sentence
+### TE KA MO LO - a mnemonics to preserve a proper order of a sentence
 |     Frage              | (Question?)            | Sort     |   
 |------------------------|------------------------|----------|
 | Wann ist es passiert?  | (When did it happen?)  | TEMPORAL |
@@ -81,7 +81,7 @@ Guten Morgen liebes Team,
 | Dativ        | klugen Männern | klugen Frauen | klugen Kindern |   
 | Akkusativ    | kluge Männer   | kluge Frauen  | kluge Kinder   |   
 
-### definite articles for plural 📋 same adjective form everywhere!
+### definite articles for plural 📋 the same form of an adjective everywhere!
 | best. Art. | m. Pl.            | f. Pl.             | n. Pl.             |   
 |------------|-------------------|--------------------|--------------------|
 | Nominativ  | die klugen Männer | die klugen Frauen  | die klugen Kinder  |   
