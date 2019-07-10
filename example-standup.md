@@ -34,8 +34,8 @@ Guten Morgen liebes Team,
 ### Example 😎 💬 📌
 |                                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------|
-| //In the last version of the app, website there were sadly a lot of crashes                                                  |
-| In **der letzten Version der App, Webseite** gab es leider mehrere Abstürze.                                                   |
+| //In the last version of the app there were sadly a lot of crashes                                                  |
+| In **der letzten Version unserer App** gab es leider mehrere Abstürze.                                                   |
 | //Those crashes were caused by an unstable internet connection.                                                              |
 | Zu dem Crashes kam es wegen Instabilität einer Netzwerkverbindung.                                                           |
 | //We released a new version                                                                                                  |
